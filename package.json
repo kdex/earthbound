@@ -8,7 +8,9 @@
   ],
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "gulp",
+    "prepublish": "npm run compile"
   },
   "dependencies": {
     "earthbound-battle-backgrounds": "^2.0.1"
