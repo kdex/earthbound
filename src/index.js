@@ -1,1 +1,1 @@
-export BattleBackgrounds from "earthbound-battle-backgrounds";
+export * as BattleBackgrounds from "earthbound-battle-backgrounds";
