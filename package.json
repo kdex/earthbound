@@ -1,6 +1,6 @@
 {
   "name": "earthbound",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Offers various implementations of Earthbound-related stuff",
   "files": [
     "src/**/*",
